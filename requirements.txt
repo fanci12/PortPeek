@@ -1,0 +1,7 @@
+# PortPeek requires Python 3.8+
+# No third-party packages are needed: it only uses the standard library
+# (argparse, socket, concurrent.futures).
+#
+# If you add features later, list the packages here, for example:
+# colorama>=0.4.6
+# rich>=13.0.0
