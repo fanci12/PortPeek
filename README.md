@@ -30,8 +30,8 @@ On some systems the command is `python3` instead of `python`.
 ### 1. Get the code
 
 ```bash
-git clone https://github.com/<your-username>/portpeek.git
-cd portpeek
+git clone https://github.com/fanci12/PortPeek.git
+cd Portpeek
 ```
 
 Or download `port_scanner.py` and put it in a folder of your choice.
